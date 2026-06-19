@@ -1,0 +1,13 @@
+/.idea
+/.htaccess
+/.htpasswd
+/bitrix/
+/upload/
+*.txt
+/sitemap_*
+/google*
+/yandex*
+/*.log
+/*.tar.gz
+/*.zip
+/*.xml
